@@ -1,0 +1,2 @@
+,Blunder scores,Eval swings (first 10 moves),Eval swings std (middlegame),Eval swings mean (middlegame),Opening depth,Mean eval swings,Eval swing std,Mean time usage per move (%),Time usage std per move (%),Moves per game,"Mean time usage per move (%, middlegame)","Time usage std per move (%, middlegame)",Moves before time pressure
+0,0.18605042016806725,0.13908333333333334,0.7575257731958762,0.4110309278350516,4.708333333333333,0.49793814432989697,1.1717525773195876,1.885463917525773,1.885463917525773,52.25,4.6455670103092785,5.723092783505154,23.25
